@@ -1,0 +1,21 @@
+.reservation-container {
+    padding: 2rem;
+    background-color: #01257D;
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.reservation-container h1 {
+    color: 00FFFF;
+    margin-bottom: 2rem;
+}
+
+.reservation-form {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0.1);
+}
